@@ -4,6 +4,7 @@ Nama Anggota :
 M Javier Rasyadi (21523242)
 M Hafiz (21523228)
 Reza Dwi Puspita (21523076)
+Wahyu Hafizh Hilhamd Fatiha (21523118)
 
 
 Job Desc:

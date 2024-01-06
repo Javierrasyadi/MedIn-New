@@ -21,3 +21,10 @@ Anggota 3:
 - Membantu membuat tampilan registrasi
 - Membuat logo
 - Membuat poster dan tampilan presentasi canva
+
+Anggota 4: 
+- Membantu membuat tampilan Login
+- Membantu membuat logo
+- Membantu Poster dan tampilan presentasi canva
+- Mencetak poster
+
